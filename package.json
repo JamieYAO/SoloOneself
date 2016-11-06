@@ -1,0 +1,12 @@
+{
+  "name": "SoloOneself",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "express": "*",
+    "express-ws": "*",
+    "react": "~15.3.0",
+    "react-native": "^0.36.0"
+  }
+}

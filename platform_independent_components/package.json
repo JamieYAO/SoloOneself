@@ -1,0 +1,9 @@
+{
+  "name": "platform-independent-components",
+  "description": "This is a collection of project specific utility modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
